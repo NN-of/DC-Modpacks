@@ -1,14 +1,14 @@
 <p align="center">
     <p align="center">
-        <img align="center" src="https://user-images.githubusercontent.com/58265507/223847812-2bd540c8-faa5-428c-92a1-b765efa45dd6.png" />
-        <img align="center" src="https://user-images.githubusercontent.com/58265507/223847762-fcfa44c2-b1ae-43c7-9c3e-18e2412c3be7.png" />
+        <img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/gray-cube.png" height="120" />
+        <img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/color-cube.png" height="120" />
     </p>
     <h1 align="center">DebbikCraft Modpacks</h1>
     <h2 align="center">Модпаки, собранные специально для DCSMP</h2>
 </p>
 
-[![nn-of/stash](https://user-images.githubusercontent.com/58265507/223539731-b6462caa-6d57-4c07-b242-67cebb6f1af5.png)](http://localhost:3000/stash/testProject)
-[![modrinth](https://user-images.githubusercontent.com/58265507/223762648-7ac6fc0b-c44a-4bce-aef9-4e47356d5e41.png)]()
+[<img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/availble.png" height="64" />]()
+[<img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/availbleMod.png" height="64" />]()
 
 ### Важные моменты
 - Модпак создан на Fabric Loader для MC 1.19.3
@@ -34,7 +34,7 @@
 
 <p align="center">
   <h3 align="center">DC Modpack</h3>
-  <p align="center"><img align="center" src="https://user-images.githubusercontent.com/58265507/223847812-2bd540c8-faa5-428c-92a1-b765efa45dd6.png" /></p>
+  <p align="center"><img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/color-cube.png" height="64" /></p>
 </p>
 
 ### Особенности выпуска:
@@ -45,7 +45,7 @@
 
 <p align="center">
   <h3 align="center">DC Modpack: Essentials</h3>
-  <p align="center"><img align="center" src="https://user-images.githubusercontent.com/58265507/223847762-fcfa44c2-b1ae-43c7-9c3e-18e2412c3be7.png" /></p>
+  <p align="center"><img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/gray-cube.png" height="64" /></p>
 </p>
 
 ### Особенности выпуска:
