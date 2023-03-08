@@ -1,4 +1,8 @@
 <p align="center">
+    <p align="center">
+        <img align="center" src="https://user-images.githubusercontent.com/58265507/223847812-2bd540c8-faa5-428c-92a1-b765efa45dd6.png" />
+        <img align="center" src="https://user-images.githubusercontent.com/58265507/223847762-fcfa44c2-b1ae-43c7-9c3e-18e2412c3be7.png" />
+    </p>
     <h1 align="center">DebbikCraft Modpacks</h1>
     <h2 align="center">Модпаки, собранные специально для DCSMP</h2>
 </p>
@@ -30,7 +34,7 @@
 
 <p align="center">
   <h3 align="center">DC Modpack</h3>
-  <p align="center"><img src="https://user-images.githubusercontent.com/58265507/223847812-2bd540c8-faa5-428c-92a1-b765efa45dd6.png" /></p>
+  <p align="center"><img align="center" src="https://user-images.githubusercontent.com/58265507/223847812-2bd540c8-faa5-428c-92a1-b765efa45dd6.png" /></p>
 </p>
 
 ### Особенности выпуска:
@@ -41,7 +45,7 @@
 
 <p align="center">
   <h3 align="center">DC Modpack: Essentials</h3>
-  <p align="center"><img src="https://user-images.githubusercontent.com/58265507/223847762-fcfa44c2-b1ae-43c7-9c3e-18e2412c3be7.png" /></p>
+  <p align="center"><img align="center" src="https://user-images.githubusercontent.com/58265507/223847762-fcfa44c2-b1ae-43c7-9c3e-18e2412c3be7.png" /></p>
 </p>
 
 ### Особенности выпуска:
