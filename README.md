@@ -7,8 +7,7 @@
     <h2 align="center">Модпаки, собранные специально для DCSMP</h2>
 </p>
 
-[<img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/availble.png" height="64" />]()
-[<img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/availbleMod.png" height="64" />]()
+[<img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/availble.png" height="64" />](https://nn-of.ru/stash/dcmp)
 
 ### Важные моменты
 - Модпак создан на Fabric Loader для MC 1.19.3
